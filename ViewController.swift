@@ -70,5 +70,5 @@ class ViewController: UIViewController {
             label1.textColor = invertedColor
             label2.textColor = invertedColor
             label3.textColor = invertedColor
-        }
+        } //pop
     }
