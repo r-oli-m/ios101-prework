@@ -1,9 +1,9 @@
 # ios101-prework
- # Prework - *Name of App Here*
+ # Prework - *BobaBlog*
 
-Submitted by: **Your Name Here**
+Submitted by: **Reva Mahto**
 
-**Name of your app** is an app that... [TODO] 
+**BobaBlog** is an app that reviews popular boba places in the Bay.
 
 Time spent: **X** hours spent in total
 
@@ -21,6 +21,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Study Bunny
+  a. interactive bunny, changes emotions depending on factors (less interactive with bunny = crying bunny etc)
+  b. customizability - rewards will allow you to add the UI you want
+  c. study reward system gamified
+2. Spotify
+  a. fonts, clean/ minimalistic organization
+  b. lock screen widget wehn music is playing 
+3. TooGoodToGo
+  a. incorporation of google and apple maps for each store
+  b. ability to 'heart' the stores you like buying food from
+  c. reviews within store --> info is well organized yet all in the same place
+4. Messages
+  a. notification pop ups
+  b. mobility - drag and drop conversations
+  c. engagement - reactions or celebration backgrounds w related texts
 
 ## Notes
 
