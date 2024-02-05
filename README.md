@@ -5,7 +5,7 @@ Submitted by: **Reva Mahto**
 
 **BobaBlog** is an app that reviews popular boba places in the Bay.
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -13,37 +13,57 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
- 
+
+## Optional Features
+
+- [ ] Random color generator button also randomly generates a random color for the 3 text labels on the top
+- [ ] Downloaded font 'Karla' from Google Fonts, implemented usage of custom font
+- [ ] Incorporated color well so users can choose their own background theme
+- [ ] Border for text boxes 
+- [ ] Shadow offset for title texts
+- [ ] Navigation header title
+- [ ] Boba reviews 😋
+
 ## Video Walkthrough
+![Blog Boba - Imgur](https://github.com/r-oli-m/ios101-prework/assets/99136190/e27842c5-498f-4d16-b7a8-347b7882c756)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-1. Study Bunny
-  a. interactive bunny, changes emotions depending on factors (less interactive with bunny = crying bunny etc)
-  b. customizability - rewards will allow you to add the UI you want
-  c. study reward system gamified
-2. Spotify
-  a. fonts, clean/ minimalistic organization
-  b. lock screen widget wehn music is playing 
-3. TooGoodToGo
-  a. incorporation of google and apple maps for each store
-  b. ability to 'heart' the stores you like buying food from
-  c. reviews within store --> info is well organized yet all in the same place
-4. Messages
-  a. notification pop ups
-  b. mobility - drag and drop conversations
-  c. engagement - reactions or celebration backgrounds w related texts
+1. **Study Bunny**
+   - a. Interactive bunny that changes emotions based on factors (less interaction = crying bunny, etc).
+   - b. Customizability - rewards allow you to add the UI you want.
+   - c. Study reward system gamified.
+
+2. **Spotify**
+   - a. Fonts and clean/minimalistic organization.
+   - b. Lock screen widget when music is playing.
+
+3. **TooGoodToGo**
+   - a. Incorporation of Google and Apple Maps for each store.
+   - b. Ability to 'heart' the stores you like buying food from.
+   - c. Reviews within the store - information is well-organized yet all in the same place.
+
+4. **Messages**
+   - a. Notification pop-ups.
+   - b. Mobility - drag and drop conversations.
+   - c. Engagement - reactions or celebration backgrounds with related texts.
+
+I would like to build an app that is like Too Good To Go but also collaborates with delivery services (Doordash, UberEats etc). Too Good To Go reduces food waste by selling store items for a reduced price at the end of the business day. This allows users to get the food they like in discount and businesses to maximize their profits/ reduce wasting their resources. However the app requires that the buyer come themselves at the end of the day to pick up their food from the store. If there is a way connect delivery features with food waste elimination services, the app could be even more useful. This is a pretty complex feature to tackle so an idea I could start with as a beginner is having a section with horizontal slideshow pictures of discounted items buyers have recieved. That way clients will have a better idea of what they are paying for (rn it just says 'surprise bag').
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- vertical scrolling behavior learned through a Youtube Tutorial + trial/test
+- getting the custom font 'Karla' to load on my simulator, had to add it to target membership
+- understanding how to connect the selected color from the color well to my background view
+- constraint errors with labels and views 🥲
+- I want to learn how to have a live preview --> as I code the simulator changes accordingly (so much faster than pausing and running)
+- I want to learn how to incorporate navigation
+- getting used to XCode set up and Swift coding, there's SO many features to work with
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Reva Mahto]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
