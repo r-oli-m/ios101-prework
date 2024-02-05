@@ -31,23 +31,23 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 1. **Study Bunny**
-   - a. Interactive bunny that changes emotions based on factors (less interaction = crying bunny, etc).
-   - b. Customizability - rewards allow you to add the UI you want.
-   - c. Study reward system gamified.
+   - Interactive bunny that changes emotions based on factors (less interaction = crying bunny, etc).
+   - Customizability - rewards allow you to add the UI you want.
+   - Study reward system gamified.
 
 2. **Spotify**
-   - a. Fonts and clean/minimalistic organization.
-   - b. Lock screen widget when music is playing.
+   - Fonts and clean/minimalistic organization.
+   - Lock screen widget when music is playing.
 
 3. **TooGoodToGo**
-   - a. Incorporation of Google and Apple Maps for each store.
-   - b. Ability to 'heart' the stores you like buying food from.
-   - c. Reviews within the store - information is well-organized yet all in the same place.
+   - Incorporation of Google and Apple Maps for each store.
+   - Ability to 'heart' the stores you like buying food from.
+   - Reviews within the store - information is well-organized yet all in the same place.
 
 4. **Messages**
-   - a. Notification pop-ups.
-   - b. Mobility - drag and drop conversations.
-   - c. Engagement - reactions or celebration backgrounds with related texts.
+   - Notification pop-ups.
+   - Mobility - drag and drop conversations.
+   - Engagement - reactions or celebration backgrounds with related texts.
 
 I would like to build an app that is like Too Good To Go but also collaborates with delivery services (Doordash, UberEats etc). Too Good To Go reduces food waste by selling store items for a reduced price at the end of the business day. This allows users to get the food they like in discount and businesses to maximize their profits/ reduce wasting their resources. However the app requires that the buyer come themselves at the end of the day to pick up their food from the store. If there is a way connect delivery features with food waste elimination services, the app could be even more useful. This is a pretty complex feature to tackle so an idea I could start with as a beginner is having a section with horizontal slideshow pictures of discounted items buyers have recieved. That way clients will have a better idea of what they are paying for (rn it just says 'surprise bag').
 
